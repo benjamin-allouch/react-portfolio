@@ -1,0 +1,18 @@
+.jumbowork {
+  font-family: "Montserrat", "Book Antiqua", Palatino, serif;
+  font-size: 20px;  
+  line-height: 1.6;
+}
+
+.title {
+  margin-bottom: 15px;
+  font-size: 25px;  
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.blockchain {
+  margin-bottom: 10px; 
+}
